@@ -1,0 +1,57 @@
+[
+  {
+    "title": "La momia",
+    "rating": 4,
+    "tags": ["acción", "suspenso", "miedo"]
+  },
+  {
+    "title": "Alicia en el país de las maravillas",
+    "rating": 10,
+    "tags": ["favorita"]
+  },
+  {
+    "title": "Diario de una pasión",
+    "rating": 8,
+    "tags": ["romantica", "favorita"]
+  },
+  {
+    "title": "Shrek",
+    "rating": 8,
+    "tags": ["animación", "favorita"]
+  },
+  {
+    "title": "Rapido y furioso",
+    "rating": 6,
+    "tags": ["acción", "drama", "ficción"]
+  },
+  {
+    "title": "Los juegos del hambre",
+    "rating": 6,
+    "tags": ["acción", "aventura", "ficción"]
+  },
+  {
+    "title": "El conjuro",
+    "rating": 7,
+    "tags": ["terror", "suspenso", "sobrenatural"]
+  },
+  {
+    "title": "Crepúsculo",
+    "rating": 5,
+    "tags": ["romance", "fantasia", "drama"]
+  },
+  {
+    "title": "Mi villano favorito",
+    "rating": 9,
+    "tags": ["animada", "aventura", "infantil"]
+  },
+  {
+    "title": "Orgullo y prejuicio",
+    "rating": 9,
+    "tags": ["romance", "drama", "clásica"]
+  },
+  {
+    "title": "Sin novedad en el frente",
+    "rating": 8,
+    "tags": ["acción", "violencia", "drama"]
+  }
+]
